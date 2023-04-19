@@ -6,8 +6,9 @@
 
 To install `dsutil`, use pip:
 
-```
-python3 -m pip install dsutil
+```bash
+cd dsutil-x.x.x
+python3 -m pip install --upgrade .
 
 ```
 
